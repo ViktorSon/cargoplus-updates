@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
-  "changelog": "– Исправлены ошибки\n– Улучшена производительность",
+  "version": "1.2",
+  "changelog": "– Добавлена кнопка, которая позволяет удалять все накладные с ТСД\n– Отредактированы наименования фотографий",
   "apk_url": "https://github.com/ViktorSon/cargoplus-updates/releases/download/apk/app-latest.apk"
 }
