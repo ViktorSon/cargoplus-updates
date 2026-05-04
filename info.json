@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
-  "changelog": "– Добавлена кнопка, которая позволяет удалять все накладные с ТСД\n– Отредактированы наименования фотографий",
+  "version": "1.3",
+  "changelog": "– Упрощен расчет времени работы в накладной, чтобы 1С могла считать накладные, которым несколько дней",
   "apk_url": "https://github.com/ViktorSon/cargoplus-updates/releases/download/apk/app-latest.apk"
 }
