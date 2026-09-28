@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
-  "changelog": "– Добавлена возможность использовать Bluetooth сканер ШК.\n– Улучшен интерфейс под современный Android",
+  "version": "1.6",
+  "changelog": "– Улучшена поддержка новой версии Android.\n– Исправлена ошибка вылета при фотографировании",
   "apk_url": "https://github.com/ViktorSon/cargoplus-updates/releases/download/apk/app-latest.apk"
 }
